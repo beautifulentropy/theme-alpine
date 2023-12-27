@@ -6,11 +6,11 @@
 	<h2><a href="{{ .Permalink }}" class="p-name">{{ .Title }}</a></h2>
   </header>
   <section class="post-body e-content">
-	{{ .Content }}
+	{{ .Summary }}
   </section>
   </section>
   {{ else }}
-	<div class="e-content">{{ .Content }}</div>
+	<div class="e-content">{{ .Summary }}</div>
   {{ end }}
   <a href="{{ .Permalink }}" class="u-url">
 	<aside class="dates">
