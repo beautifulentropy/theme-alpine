@@ -1,7 +1,7 @@
 {
 	"version": "1.0.9",
-	"title": "Alpine theme",
-	"description": "Micro.blog's Alpine theme, similar to Marfa theme.",
+	"title": "Entropy",
+	"description": "Micro.blog's Entropy theme, similar to Marfa and Alpine themes.",
 	"fields": [
 		{
 			"field": "params.alpine_accent_text_color",
